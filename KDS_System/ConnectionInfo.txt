@@ -1,0 +1,3 @@
+Username: root
+Password: EECS690
+ConnectionURL: jdbc:mysql://127.0.0.1/talamb
